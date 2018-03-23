@@ -11,6 +11,7 @@ For this activity, you are going to practice integrating a git workflow into 2 s
 
 cd ~/muktek/warmups
 mkdir activity--git-github
+cd activity--git-github
 
 # (1) download project files w/ curl
 curl https://raw.githubusercontent.com/muktek/activity--git-github/master/github-activity.zip >  github-activity.zip
