@@ -4,9 +4,14 @@ For this activity, you are going to practice integrating a git workflow into 2 s
 
 ### Instructions
 
-(1) Download and install project files
+(1) Setup the directory + download/ install project files
 
 ```sh
+# (1) navigate to warmups and create directory
+
+cd ~/muktek/warmups
+mkdir activity--git-github
+
 # (1) download project files w/ curl
 curl https://raw.githubusercontent.com/muktek/activity--git-github/master/github-activity.zip >  github-activity.zip
 
