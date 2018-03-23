@@ -1,8 +1,27 @@
 # Activity - Git + Github
 
+For this activity, you are going to practice integrating a git workflow into 2 sample projects **Gallery X** and **Tables for Days**
+
+### Instructions
+
+(1) Download and install project files
+
+```sh
+# (1) download project files w/ curl
+curl https://raw.githubusercontent.com/muktek/activity--git-github/master/github-activity.zip >  github-activity.zip
+
+# (2) Unzip
+unzip github-activity.zip
+```
+
+(2) Follow the instructions as indicated below.
+
+
 ### Gallery X
 
-1. Create a Repo in the `gallery-x` directory. Add to staging and make initial commit.
+1. Create a new gitepo in the `gallery-x` directory.
+
+2. Add to staging and make initial commit.
 
 2. Create a repository on github called _gallery-x_.
 
@@ -25,11 +44,16 @@
 
 ### Tables 4 Days
 
-1. Create a Repo in the `tables-for-days` directory. Add to staging and make initial commit.
+1. Create a new git repo in the `tables-for-days` directory.
+
+2. Add to staging and make initial commit.
 
 2. Create a repository on github called _tables-for-days_.
 
 3. Connect the remote link to your local repository.
+  ```
+  git remote add origin remote-link-to repo»
+  ```
 
 4. Connect the remote link to your local repository.
 
